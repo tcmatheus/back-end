@@ -36,4 +36,3 @@ Em processo...
 - Cadastro de Produtos
 - Cadastro de Vendedores
 - Dashboards para os lojistas e fornecedores
-
